@@ -1,7 +1,7 @@
-#### Instructions to Run the Script
+##Instructions to Run the Script
 - install tensorflow, python3
 - execute the command : python3 id_label_images.py <image file path>
 
-####Directory Details
+##Directory Details
 - bottlenecks : contains the cached bottlenecks creating while retraining the model using my images
 - images : contains the image folders of IDs
